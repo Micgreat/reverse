@@ -6,7 +6,7 @@
 
 ![img1](./img/determine.file.type.png)
 
-2. Disassemble the binary code using radare2.
+2. Disassemble the binary code using `radare2`.
 I analyzed the binary file by examining the code 
 
 ![img2](./img/2.aaaa.png)
