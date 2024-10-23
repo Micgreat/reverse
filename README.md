@@ -14,6 +14,7 @@ I analyzed the binary file by examining the code
 3. I ran `afl` to list the functions detected within the binary 
 
 ![img3](./img/afl.png)
+
 These are all the functions in the file and any can be examined to see the code details. I used one for example to show. 
 
 `pdf @ 0x00b9359e`
